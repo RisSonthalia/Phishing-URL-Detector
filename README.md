@@ -89,6 +89,12 @@ Our XGBoost model achieved impressive results:
 - Accuracy on Training Data: 85.3%
 
 - Accuracy on Test Data: 86.1%
+  
+Additional performance metrics:
+
+- Precision: 0.872
+- Recall: 0.845
+- F1-Score: 0.858
 
 ## Usage
 

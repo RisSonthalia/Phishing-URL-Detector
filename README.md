@@ -16,6 +16,17 @@ Phishing attacks often rely on creating URLs and websites that closely mimic leg
 
 3. Provide an accurate and efficient tool for phishing detection
 
+## WebPages
+
+### Home Page
+![Home Page](images/home.png)
+
+### Result page
+![ Result_page](images/result.png)
+
+### Review page
+![Review_page](images/review.png)
+
 ## Features Extracted
 
 The system extracts 16 key features from each URL, which serve as inputs for the machine learning model:

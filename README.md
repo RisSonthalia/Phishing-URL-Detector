@@ -106,15 +106,18 @@ Additional performance metrics:
 ### How to Use
 
 1. **Clone the Repository**:
-    git clone https://github.com/your/repository.git
+    ```sh
+    git clone https://github.com/RisSonthalia/Phishing-URL-Detector.git
 
-2. **Install Dependencies**:
+3. **Install Dependencies**:
+     ```sh
      pip install -r requirements.txt
 
-3. **Run the Application**:
+5. **Run the Application**:
+     ```sh
      python manage.py runserver
 
-4. **Access the Application**:
+7. **Access the Application**:
 Open your web browser and go to `http://localhost:8000` to use the application.
 
 ## Review Page

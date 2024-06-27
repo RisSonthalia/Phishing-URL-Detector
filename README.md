@@ -152,16 +152,6 @@ We welcome contributions from the community! If you're interested in improving t
 
 5. Create a new Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-* Thanks to all contributors who have helped in developing this tool
-
-* Special thanks to the cybersecurity community for providing valuable datasets and insights
-
 ## Contact
 
 For any queries or suggestions, please open an issue in the GitHub repository or contact the maintainers directly.

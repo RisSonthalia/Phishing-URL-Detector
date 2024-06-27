@@ -96,13 +96,10 @@ Additional performance metrics:
 
 #### Confusion Matrix
 
-             Predicted
-             Phishing | Legitimate
-Actual  +-----------+-----------+
-Phishing  |    845    |    155    |
-          +-----------+-----------+
-Legitimate|    128    |    872    |
-          +-----------+-----------+
+|               | Predicted Phishing | Predicted Legitimate |
+|---------------|:------------------:|:--------------------:|
+| Actual Phishing  |        845         |         155          |
+| Actual Legitimate|        128         |         872          |
 
 ## Usage
 

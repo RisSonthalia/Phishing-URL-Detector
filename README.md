@@ -97,20 +97,20 @@ We chose XGBoost (eXtreme Gradient Boosting) for this classification task due to
 
 Our XGBoost model achieved impressive results:
 
-- Accuracy on Training Data: 85.4%
-- Accuracy on Test Data: 85.3%
+- Accuracy on Training Data: 85.7%
+- Accuracy on Test Data: 84.1%
 
 Additional performance metrics:
-- Precision: 0.864
-- Recall: 0.853
-- F1-Score: 0.852
+- Precision: 0.908
+- Recall: 0.765
+- F1-Score: 0.830
 
 #### Confusion Matrix
 
 |               | Predicted Phishing | Predicted Legitimate |
 |---------------|:------------------:|:--------------------:|
-| Actual Phishing  |        945         |         61           |
-| Actual Legitimate|        233         |         761          |
+| Actual Phishing  |        903         |         79           |
+| Actual Legitimate|        239         |         779          |
 
 ## Usage
 

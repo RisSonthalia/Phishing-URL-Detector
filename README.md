@@ -101,9 +101,9 @@ Our XGBoost model achieved impressive results:
 - Accuracy on Test Data: 84.1%
 
 Additional performance metrics:
-- Precision: 0.908
-- Recall: 0.765
-- F1-Score: 0.830
+- Precision: 0.7907
+- Recall: 0.9195
+- F1-Score:0.8507
 
 #### Confusion Matrix
 

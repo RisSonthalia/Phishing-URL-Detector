@@ -273,7 +273,7 @@
     <main class="container">
         <h1>Phishing URL Detection Result</h1>
         <p>The URL you entered: <strong>{{ url }}</strong></p>
-        {% if is_phishing == 0 %}
+        {% if is_phishing == 1 %}
         <p class="result phishing">
             <img class="result-icon" src="{% static 'red-alert-icon.svg' %}" alt="Red Alert Icon">
             This URL is likely a <strong>phishing</strong> site.

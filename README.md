@@ -101,16 +101,16 @@ Our XGBoost model achieved impressive results:
 - Accuracy on Test Data: 86.4%
 
 Additional performance metrics:
-- Precision: 0.8318
-- Recall: 0.9336
-- F1-Score:0.8797
+- Precision: 0.911
+- Recall: 0.783
+- F1-Score:0.842
 
 #### Confusion Matrix
 
-|               | Predicted Phishing | Predicted Legitimate |
+|               | Predicted Legitimate | Predicted Phishing |
 |---------------|:------------------:|:--------------------:|
-| Actual Phishing  |        999         |         71           |
-| Actual Legitimate|        202         |         728          |
+| Actual Legitimate  |        999         |         71           |
+| Actual Phishing|        202         |         728          |
 
 ## Usage
 

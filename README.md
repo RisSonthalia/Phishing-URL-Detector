@@ -153,7 +153,8 @@ We are committed to continually improving this tool. Future plans include:
 
 For more detailed information about the research and methodology behind this project, please refer to the following research paper:
 
-[Link to Research Paper]([https://example.com/research-paper.pdf](https://drive.google.com/file/d/1eDVB8IzfEaG3Mzv4-FNR8W5O_nNq6faX/view))
+[Link to Research Paper](https://drive.google.com/file/d/1eDVB8IzfEaG3Mzv4-FNR8W5O_nNq6faX/view)
+
 
 ## 🤝 Collaboration
 

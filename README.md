@@ -149,6 +149,12 @@ We are committed to continually improving this tool. Future plans include:
 
 5. Creating browser extensions for instant URL checking while surfing
 
+## Research Paper
+
+For more detailed information about the research and methodology behind this project, please refer to the following research paper:
+
+[Link to Research Paper]([https://example.com/research-paper.pdf](https://drive.google.com/file/d/1eDVB8IzfEaG3Mzv4-FNR8W5O_nNq6faX/view))
+
 ## 🤝 Collaboration
 
 We welcome contributions from the community! Here’s how you can get involved:
